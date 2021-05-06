@@ -8,3 +8,4 @@ console.log(f1kadata);
 
 
 fs.writeFileSync("./index.txt","hey i m index");
+fs.writeFileSync("./");
